@@ -119,9 +119,7 @@
   /* ---------- Contact ---------- */
   var C = S.contact;
   $("#contact-list").innerHTML =
-    '<li><span>Email</span><a href="mailto:' + C.email + '">' + C.email + '</a></li>' +
     '<li><span>Phone</span><a href="tel:' + C.phoneLink + '">' + C.phone + '</a></li>' +
-    '<li><span>LinkedIn</span><a href="' + C.linkedin + '" target="_blank" rel="noopener">Mahmoud Khattab</a></li>' +
     '<li><span>All links</span><a href="' + C.links + '" target="_blank" rel="noopener">linkatik.bio/mahmoud-khattb1</a></li>';
 
   /* ---------- Tabs ---------- */

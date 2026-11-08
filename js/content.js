@@ -7,10 +7,8 @@
 window.SITE = {
 
   contact: {
-    email: "mahmoudkhattap32@gmail.com",
     phone: "+20 101 921 5082",
     phoneLink: "+201019215082",
-    linkedin: "https://www.linkedin.com/in/mahmoud-khattab-04a572194",
     links: "https://linkatik.bio/mahmoud-khattb1",
   },
 
