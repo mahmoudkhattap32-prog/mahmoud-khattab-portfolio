@@ -47,7 +47,6 @@ window.SITE = {
   /* ---------- Case studies ---------- */
   oneBond: {
     intro: "One Bond is an Egyptian men's grooming brand. Its Men's Face Wash is built for oily, sweaty, breakout-prone skin in a hot, humid climate. I planned a 30-day campaign from brief to ads, email and reporting.",
-    note: "Capstone project: a campaign plan built as part of my digital marketing training. Numbers shown are campaign targets, not results.",
     kpis: [
       { v: "+30%", l: "sales growth with a 4:1 return on ad spend" },
       { v: "3%+", l: "website conversion rate" },
@@ -123,7 +122,6 @@ window.SITE = {
 
   caviaro: {
     intro: "A Vitamin C serum campaign. I wrote the ad copy and caption, designed the creative and planned the content calendar and KPIs.",
-    note: "Concept project.",
     headline: "Caviaro Serum: the secret to timeless glow",
     caption: ["Pure Vitamin C power for a radiant, youthful skin.", "Reveal your natural glow with Caviaro.", "Reduces dark spots", "Boosts hydration", "Gives you that natural radiance", "Shop Now"],
     hashtags: "#CaviaroSerum #Skincare #VitaminC #GlowSkin",
@@ -133,7 +131,6 @@ window.SITE = {
 
   valyrian: {
     intro: "Valyrian is a premium fashion brand with an Old Money look. I wrote the audience segmentation and built a 40-day media buying plan across TikTok, Instagram and Facebook.",
-    note: "Capstone project: a media plan, not a live account. Targets are planning benchmarks.",
     total: { spend: 36000, budget: 40000 },
     phases: [
       { name: "Awareness", where: "TikTok + Instagram", days: 9, budget: 6000, kpi: "Video completion 15 to 25%" },
